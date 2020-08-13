@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+> My name is Thành
+> Love drawing, creating games, writing, music, and games in general
+> Currently working at 2nd floor
 <!--
 **PThanhGumi/PThanhGumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
